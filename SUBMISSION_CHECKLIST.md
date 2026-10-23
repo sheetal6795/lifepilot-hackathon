@@ -10,14 +10,14 @@
 - [ ] **Project Title**: `LifePilot`
 - [ ] **Tagline**: `From conversation to action.`
 - [ ] **Category / Track**: Select **Alexa+ Simulated Experience Track** (or relevant track).
-- [ ] **Project Description**: Copy content from [DEVPOST_DRAFT.md](file:///c:/Users/pc/Downloads/lifepilot-hackathon/DEVPOST_DRAFT.md).
+- [ ] **Project Description**: Copy content from [DEVPOST_DRAFT.md](./DEVPOST_DRAFT.md).
 - [ ] **Built With Tags**: `react`, `vite`, `javascript`, `css3`, `lucide-react`, `canvas-confetti`, `web-speech-api`.
 
 ---
 
 ## 2. Code Repository & Integrity
 - [ ] **Public Git Repository**: Push codebase to GitHub / GitLab (ensure repo visibility is Public).
-- [ ] **README.md Verified**: Ensure [README.md](file:///c:/Users/pc/Downloads/lifepilot-hackathon/README.md) is visible at repository root with problem, solution, features, architecture, and run instructions.
+- [ ] **README.md Verified**: Ensure [README.md](./README.md) is visible at repository root with problem, solution, features, architecture, and run instructions.
 - [ ] **No Secret Leaks**: Verified that NO API keys, private tokens, or hardcoded credentials exist in source code.
 - [ ] **Clean Build**: Run `npm run build` locally to verify production bundle builds cleanly in < 3 seconds.
 - [ ] **Automated Tests**: Run `node test-lifepilot.js` to ensure all 22 integration tests pass (`22 PASSED, 0 FAILED`).
@@ -25,7 +25,7 @@
 ---
 
 ## 3. Demo Video (Under 3 Minutes)
-- [ ] **Script Prepared**: Review [DEMO_SCRIPT.md](file:///c:/Users/pc/Downloads/lifepilot-hackathon/DEMO_SCRIPT.md) (targets ~2:45).
+- [ ] **Script Prepared**: Review [DEMO_SCRIPT.md](./DEMO_SCRIPT.md) (targets ~2:45).
 - [ ] **Audio Check**: Test microphone clarity and ensure system audio captures the assistant voice readout.
 - [ ] **Key Flows Demonstrated**:
   - [ ] Opening screen with branding & tagline
